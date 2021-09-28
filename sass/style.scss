@@ -1,0 +1,17 @@
+/* Global */
+$font-one: 'Lato', sans-serif;
+$font-two: 'Lobster', cursive;
+$font-three: 'Raleway', sans-serif;
+
+$color-one: #fbc531;
+$color-two: #353b48;
+$color-three: #dcdde1;
+
+.img {
+height: 100%;
+object-fit: cover;
+}
+.col-6 {
+    color: $color-one;
+    font-family: $font-two;
+}
