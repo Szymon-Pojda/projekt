@@ -7,11 +7,10 @@ $color-one: #fbc531;
 $color-two: #353b48;
 $color-three: #dcdde1;
 
-.img {
-height: 100%;
-object-fit: cover;
-}
-.col-6 {
+
+h4 {
     color: $color-one;
-    font-family: $font-two;
+    font-family: $font-three;
+    font-size: 75px;
+    border: solid black;
 }
