@@ -8,9 +8,14 @@ $color-two: #353b48;
 $color-three: #dcdde1;
 
 
-.h3 {
+h3 {
     color: $color-one;
     font-family: $font-three;
     font-size: 75px;
     border: solid black;
 }
+img {
+    height: 100%;
+    object-fit: cover;
+}
+    
